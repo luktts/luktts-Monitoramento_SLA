@@ -1,0 +1,39 @@
+number,sys_created_on,resolved_at,closed_at,state,category,assigned_to,description,short_description,cmdb_ci,assignment_group,u_previous_assignment_group,u_assignment_group_changed_on,u_previous_group_duration,business_duration,priority,location
+INC2000001,2026-03-02 19:21:00,,,Assigned,Hardware,Fernanda Teixeira,Descrição automática para Office Error,Office Error,Generic CI,Telecom-Especialista,,,182,,3 - Moderate,BR-PR-Curitiba
+INC2000002,2026-03-26 03:10:00,,,Assigned,Mobile App,Carlos Silva,Descrição automática para App Crash,App Crash,Generic CI,Support-Usuario,,,2772,,3 - Moderate,BR-RJ-Rio de Janeiro
+INC2000003,2026-03-01 03:02:00,,,Assigned,Software,Fernanda Teixeira,Descrição automática para Mobile App Freezing,Mobile App Freezing,Generic CI,Support-Tecnico,,,3488,,3 - Moderate,BR-RJ-Rio de Janeiro
+INC2000004,2026-03-01 02:24:00,,,Assigned,Mobile App,João Oliveira,Descrição automática para Validation Error,Validation Error,Generic CI,MS-Word,,,3324,,3 - Moderate,BR-ES-Vitória
+INC2000005,2026-03-03 23:57:00,,,Assigned,Network,Juliana Costa,Descrição automática para Hardware Display Issue,Hardware Display Issue,Generic CI,Support-Tecnico,,,3225,,3 - Moderate,BR-MG-Belo Horizonte
+INC2000006,2026-03-17 22:58:00,,,Assigned,Application,Carlos Silva,Descrição automática para Mobile App Freezing,Mobile App Freezing,Generic CI,Servidores-Nuvem,,,1479,,3 - Moderate,BR-RJ-Rio de Janeiro
+INC2000007,2026-03-02 18:32:00,,,Assigned,Mobile App,Ana Santos,Descrição automática para Office Error,Office Error,Generic CI,Support-Especialista,,,3831,,3 - Moderate,BR-SP-São Paulo
+INC2000008,2026-03-20 18:31:00,,,Assigned,Mobile App,Fernanda Teixeira,Descrição automática para System Status Adjustment,System Status Adjustment,Generic CI,Telecom-Support,,,1151,,3 - Moderate,BR-MG-Belo Horizonte
+INC2000009,2026-03-02 09:17:00,,,Assigned,Application Software,João Oliveira,Descrição automática para Hardware Display Issue,Hardware Display Issue,Generic CI,Support-Mobile,,,2709,,3 - Moderate,BR-RJ-Rio de Janeiro
+INC2000010,2026-03-03 07:50:00,,,Assigned,Hardware,Fernanda Teixeira,Descrição automática para Mobile App Freezing,Mobile App Freezing,Generic CI,Servidores-Nuvem,,,3245,,3 - Moderate,BR-MG-Belo Horizonte
+INC2000011,2026-03-19 05:31:00,,,Assigned,Application Software,Juliana Costa,Descrição automática para Report Loading Failure,Report Loading Failure,Generic CI,Support-Usuario,,,4141,,3 - Moderate,BR-SP-Santos
+INC2000012,2026-03-27 15:08:00,,,Assigned,Application Software,Ana Santos,Descrição automática para Office Error,Office Error,Generic CI,MS-PowerPoint,,,1800,,3 - Moderate,BR-SP-Santos
+INC2000013,2026-03-22 20:21:00,,,Assigned,Hardware,João Oliveira,Descrição automática para Data Sync Issue,Data Sync Issue,Generic CI,MS-Word,,,3736,,3 - Moderate,BR-RJ-Rio de Janeiro
+INC2000014,2026-03-05 14:02:00,,,Assigned,Mobile App,Ana Santos,Descrição automática para Hardware Display Issue,Hardware Display Issue,Generic CI,Support-Usuario,,,2898,,3 - Moderate,BR-SP-Santos
+INC2000015,2026-03-05 17:22:00,,,Assigned,Hardware,João Oliveira,Descrição automática para Report Loading Failure,Report Loading Failure,Generic CI,MS-PowerPoint,,,619,,3 - Moderate,BR-MG-Belo Horizonte
+INC2000016,2026-03-05 06:36:00,,,Assigned,Network,João Oliveira,Descrição automática para App Crash,App Crash,Generic CI,MS-Excel,,,4584,,3 - Moderate,BR-SP-Santos
+INC2000017,2026-03-13 02:43:00,,,Assigned,Software,Marcos Lima,Descrição automática para Office Error,Office Error,Generic CI,Telecom-Support,,,3038,,3 - Moderate,BR-ES-Vitória
+INC2000018,2026-03-19 13:57:00,,,Assigned,Application,João Oliveira,Descrição automática para App Crash,App Crash,Generic CI,Servidores-Especialista,,,1757,,3 - Moderate,BR-SP-Santos
+INC2000019,2026-03-04 16:15:00,,,Assigned,Hardware,Juliana Costa,Descrição automática para Report Loading Failure,Report Loading Failure,Generic CI,Servidores-Especialista,,,3748,,3 - Moderate,BR-ES-Vitória
+INC2000020,2026-03-16 14:01:00,,,Assigned,Software,Marcos Lima,Descrição automática para Data Sync Issue,Data Sync Issue,Generic CI,MS-Excel,,,1559,,3 - Moderate,BR-PR-Curitiba
+INC2000021,2026-03-11 06:12:00,,,Assigned,Application,Fernanda Teixeira,Descrição automática para App Crash,App Crash,Generic CI,Servidores-Support,,,1809,,3 - Moderate,BR-PR-Curitiba
+INC2000022,2026-03-03 04:16:00,,,Assigned,Software,Carlos Silva,Descrição automática para Mobile App Freezing,Mobile App Freezing,Generic CI,Telecom-Support,,,80,,3 - Moderate,BR-RJ-Rio de Janeiro
+INC2000023,2026-03-11 06:28:00,,,Assigned,Mobile App,Fernanda Teixeira,Descrição automática para Validation Error,Validation Error,Generic CI,Telecom-Especialista,,,4887,,3 - Moderate,BR-SP-São Paulo
+INC2000024,2026-03-08 11:24:00,,,Assigned,Application,Marcos Lima,Descrição automática para Hardware Display Issue,Hardware Display Issue,Generic CI,Servidores-Support,,,3343,,3 - Moderate,BR-ES-Vitória
+INC2000025,2026-03-04 13:18:00,,,Assigned,Application,João Oliveira,Descrição automática para Office Error,Office Error,Generic CI,Telecom-Especialista,,,212,,3 - Moderate,BR-SP-São Paulo
+INC2000026,2026-03-20 17:04:00,,,Assigned,Network,João Oliveira,Descrição automática para Hardware Display Issue,Hardware Display Issue,Generic CI,Service-Desk,,,3256,,3 - Moderate,BR-SP-São Paulo
+INC2000027,2026-03-03 01:19:00,,,Assigned,Application Software,Juliana Costa,Descrição automática para System Status Adjustment,System Status Adjustment,Generic CI,Telecom-Cabling,,,4897,,3 - Moderate,BR-SP-Santos
+INC2000028,2026-03-25 05:46:00,,,Assigned,Network,Carlos Silva,Descrição automática para Mobile App Freezing,Mobile App Freezing,Generic CI,Servidores-Especialista,,,1870,,3 - Moderate,BR-ES-Vitória
+INC2000029,2026-03-19 20:30:00,,,Assigned,Software,João Oliveira,Descrição automática para App Crash,App Crash,Generic CI,Servidores-Support,,,2874,,3 - Moderate,BR-SP-São Paulo
+INC2000030,2026-03-18 17:11:00,,,Assigned,Network,Juliana Costa,Descrição automática para Hardware Display Issue,Hardware Display Issue,Generic CI,Telecom-Cabling,,,3549,,3 - Moderate,BR-ES-Vitória
+INC2000031,2026-03-22 01:01:00,,,Assigned,Mobile App,Marcos Lima,Descrição automática para Data Sync Issue,Data Sync Issue,Generic CI,Servidores-Especialista,,,226,,3 - Moderate,BR-PR-Curitiba
+INC2000032,2026-03-26 08:41:00,,,Assigned,Network,Marcos Lima,Descrição automática para Validation Error,Validation Error,Generic CI,Servidores-Support,,,4812,,3 - Moderate,BR-PR-Curitiba
+INC2000033,2026-03-27 12:49:00,,,Assigned,Hardware,Marcos Lima,Descrição automática para Validation Error,Validation Error,Generic CI,Service-Desk,,,3274,,3 - Moderate,BR-PR-Curitiba
+INC2000034,2026-03-09 00:47:00,,,Assigned,Hardware,Fernanda Teixeira,Descrição automática para Office Error,Office Error,Generic CI,Telecom-Especialista,,,2102,,3 - Moderate,BR-PR-Curitiba
+INC2000035,2026-03-28 14:58:00,,,Assigned,Application Software,Fernanda Teixeira,Descrição automática para App Crash,App Crash,Generic CI,Support-Mobile,,,1368,,3 - Moderate,BR-PR-Curitiba
+INC2000036,2026-03-09 20:27:00,,,Assigned,Hardware,Marcos Lima,Descrição automática para System Status Adjustment,System Status Adjustment,Generic CI,Support-Tecnico,,,716,,3 - Moderate,BR-ES-Vitória
+INC2000037,2026-03-08 11:07:00,,,Assigned,Software,Juliana Costa,Descrição automática para App Crash,App Crash,Generic CI,Support-Tecnico,,,3237,,3 - Moderate,BR-PR-Curitiba
+INC2000038,2026-03-12 07:35:00,,,Assigned,Network,Carlos Silva,Descrição automática para Office Error,Office Error,Generic CI,Support-Usuario,,,4068,,3 - Moderate,BR-SP-São Paulo
