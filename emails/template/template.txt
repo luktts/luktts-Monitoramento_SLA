@@ -1,0 +1,20 @@
+{saudacao}, {primeiro_nome_lider}.
+
+Esta é uma mensagem automática.
+
+Espero que este e-mail lhe encontre bem.
+
+Gostaria de compartilhar uma atualização referente aos incidentes atribuídos ao grupo {equipe}. Os itens listados abaixo apresentam tendência de aumento no SLA e exigem acompanhamento para garantir o cumprimento dos prazos estabelecidos, evitando riscos de violação e contribuindo para a manutenção dos indicadores de performance do grupo.
+
+Segue a relação dos incidentes identificados até o momento:
+
+{lista_incidentes}
+
+Para sua conveniência, a consulta completa e sempre atualizada está disponível no link abaixo:
+
+{inc_link}
+
+Permaneço à disposição caso necessite de qualquer apoio adicional.
+
+Atenciosamente,
+Equipe de Monitoramento SLA
